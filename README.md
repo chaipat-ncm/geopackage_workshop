@@ -23,3 +23,10 @@
 # Files
 - สามารถดาวน์โหลดไฟล์ ตัวอย่างการสัมมนาได้จากด้านบน
 
+# GeoPackage Workshop doccument
+- แจกเฉพาะสมาชิกที่ลงทะเบียนเข้าร่วมสัมมนา (ได้รับรหัสผ่านปิดไฟล์ทาง email)
+https://drive.google.com/file/d/1IaVfHiB_6xr_bzgixLVDGpzKA48YZyb8/view?usp=sharing
+
+
+
+
